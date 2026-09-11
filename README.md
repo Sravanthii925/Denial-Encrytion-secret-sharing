@@ -100,10 +100,3 @@ Student: Sravanthi Kachakayalwar
 
 Department: CSE (AI & ML)
 
-
-
-Academic Year: 2025–2026
-
-📌 Note
-
-This GitHub repository is maintained as a project documentation and presentation repository. It does not contain the application's source code.
